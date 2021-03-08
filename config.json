@@ -1,0 +1,32 @@
+{
+  "current dataset id":3,
+  "consistencyCheckProbability": 0.1,
+  "users": [
+    {
+      "user name": "RandomLabelingMechanism1",
+      "user id": 1,
+      "user type": "RandomBot"
+    },
+    {
+      "user name": "RandomLabelingMechanism2",
+      "user id": 2,
+      "user type": "RandomBot"
+    },
+    {
+      "user name": "RandomLabelingMechanism3",
+      "user id": 3,
+      "user type": "RandomBot"
+    },
+    {
+      "user name": "RandomLabelingMechanism4",
+      "user id": 4,
+      "user type": "RandomBot"
+    }
+  ],
+  "human users":[
+    {
+	"user id": 5,
+	"human user name": "humanUser1",
+	"password": "password1"
+    }]
+}
